@@ -1,3 +1,6 @@
-Practice makes permanent.  
-  
-These exercises are all about practicing my craft as a programmer, using the exercises from '57 Exercises for Programmers' by Brian P. Hogan.
+Chapter 1 - Saying Hello
+
+The "Hello World" program is the first program you learn to write in many
+languages, but it doesn't involve any input.
+So create a program that prompts for your name and prints a greeting using your
+name.
