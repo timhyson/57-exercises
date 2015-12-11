@@ -1,3 +1,3 @@
-Practice makes permanent.  
+Counting the Number of Characters.  
   
-These exercises are all about practicing my craft as a programmer, using the exercises from '57 Exercises for Programmers' by Brian P. Hogan.
+Create a program that prompts for an input string and displays output that shows the input string and the number of characters the string contains.
